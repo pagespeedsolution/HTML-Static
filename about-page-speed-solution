@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Website Speed Optimisation Service - Page Speed Solution</title>
+    <meta property="og:description"
+        content="Boost your website's performance with our lightning-fast page speed optimization service. Get a faster, more responsive site that improves user experience and boosts SEO. Don't let slow load times cost you customers - act now!" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
+    crossorigin="anonymous">
+  <link href="src/css/style.css" rel="stylesheet" crossorigin="anonymous">
+  <link rel="icon" href="src/img/Group 32047.svg" sizes="32x32" />
+
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-MT5PJKRQ');</script>
+  <!-- End Google Tag Manager -->
+  
+</head>
+<body>
+
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MT5PJKRQ"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  
+
+  <header>
+    <div class="container">
+      <div class="header-contact">
+        <div class="row">
+          <div class="col-lg-4 d-lg-block d-none">
+            <a href="/" class="header-logo">
+              <img src="src/img/page-speed-logo.svg" alt="page-speed-logo">
+            </a>
+          </div>
+
+          <div class="col-lg-8">
+            <div class="header-button">
+              <a href="tel:919662262269" class="header-contact_icon">
+                <img src="src/img/call-icon.svg" alt="call-icon">
+
+                <span><b>Call: </b> +91 96622 62269</span>
+              </a>
+
+              <a href="mailto:contact@pagespeedsolution.com" class="header-contact_icon">
+                <img src="src/img/email-icon.svg" alt="email-icon">
+
+                <span><b>Email:</b> contact@pagespeedsolution.com</span>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <nav class="navbar navbar-expand-lg">
+      <div class="container">
+        <a class="navbar-brand d-lg-none" href="#">
+          <img src="src/img/page-speed-logo.svg" alt="page-speed-logo">
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+          aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav">
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="/">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="about-page-speed-solution">About</a>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Services <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chevron-down" viewBox="0 0 16 16">
+                <path fill-rule="evenodd" d="M1.646 4.646a.5.5 0 0 1 .708 0L8 10.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708"/>
+              </svg></a>
+
+              <ul class="dropdown-menu">
+                <li><a class="dropdown-item" href="wordpress-speed-optimization">Wordpress Speed Optimization Service</a></li>
+                <li><a class="dropdown-item" href="shopify-speed-optimization">Shopify Speed Optimization Service</a></li>
+                <li><a class="dropdown-item" href="magento-speed-optimization">Magento Speed Optimization Service</a></li>
+                <li><a class="dropdown-item" href="drupal-speed-optimization">Drupal Speed Optimization Service</a></li>
+              </ul>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="b2b-partnership">B2B PARTNERSHIP</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="contact-page-speed-solution">CONTACT</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="blogs-listing">Blogs</a>
+            </li>
+            <li class="nav-item page-analysis ms-lg-auto">
+              <a class="nav-link" href="contact-page-speed-solution">
+                <img src="src/img/page-analysis.svg" alt="page-analysis">
+                FREE PAGE SPEED ANALYSIS
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+  </header>
+      
+      <section class="about-wrapper">
+        <div class="container">
+            <div class="about-title">
+              <h1 class="d-none">Website Speed Optimisation Service</h1>
+              <h1>ABOUT US</h1>
+              <p>We are a team that works relentlessly to make websites faster. We established Page Speed Solutions to help anyone who wants to improve site speed.</p>
+            </div>
+        </div>
+      </section>
+
+      <section class="company-wrapper">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-6">
+              <h3>Embrace Speed. Get Higher Conversions.</h3>
+              <h2>We empower brands with our best speed optimization strategies</h2>
+              <p>Page Speed Solutions is a visionary website speed optimization service provider. We provide faster websites on popular platforms like WordPress, Drupal, Shopify, and Magento. Our passion is to deliver improved and result-oriented page speed optimization services, which keeps us ahead of our competitors. We learn from every single challenge and leap forward, achieving commendable milestones. Our inspirations drive enhanced customer satisfaction. We are the forerunners in providing optimized websites for users.</p>
+        
+              <p>Over the years we have empowered several brands by offering faster websites with our latest tools and techniques. Backed by a team of stellar speed experts, we have improved user experiences, mobile accessibility, and search engine rankings of numerous websites. We follow a strategic process to deliver faster websites, enabling improved rankings and SEO performance. Our best approach is to identify key areas where traffic drops and design a checklist to make necessary updates to ensure maximum visitor retention.</p>
+            </div>
+            <div class="col-lg-6">
+              <div class="company-img">
+                <img src="./src/img/Rectangle 6557.png" alt="" class="w-100">
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="ourcompany-wrapper">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-6">
+              <div class="ourcompany-img">
+                <img src="./src/img/Rectangle 6558.png" alt="">
+              </div>
+            </div>
+            <div class="col-lg-6">
+              <h3>Our Vision & Mission</h3>
+              <div class="d-flex align-items-center">
+                <div class="company-icon">
+                  <img src="./src/img/Layer 3.svg">
+                </div>
+                
+                <span class="ms-2">Mission</span>
+              </div>
+              <p class="mt-3">To deliver innovative page speed solutions globally, enabling businesses to thrive of all sizes, by offering users seamless and speedier website experiences that boost engagement and higher conversions.</p>
+              <hr>
+              <div class="d-flex align-items-center">
+                <div class="company-icon">
+                  <img src="./src/img/Layer 3.svg">
+                </div>
+                
+                <span class="ms-2">Vision</span>
+              </div>
+              <p class="mt-3">We envision a platform where every business gets state-of-the-art speed optimization services to help companies meet their goals, reduce load times, deliver excellent web performance, and succeed.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="reflection-wrapper">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-6">
+              <div class="reflection-title">
+                <h3>Testimonials of Our Success</h3>
+                <p>Our client stories speak about our dedication to delivering real results. Find out how we make a difference straight from our clients.</p>
+              </div>
+            </div>
+            <div class="col-lg-6">
+              <div class="testimonial-slider">
+                <div class="slider owl-carousel">
+                  <div> 
+                    <p>I would like to appreciate the entire Page Speed Solutions team. Before Page Speed, we outsourced our web projects to many offshore companies, however, we found Mr.XX understands the dynamics of page speed optimization and the culture of a UK-based firm. The team delivered the project on time within my budget and as per the agreed quality standards. Their service delivery and dedication exceed anything else on which we work. I highly recommend them for any web projects. They are brilliant.</p>
+      
+                    <!-- <span>K D</span> -->
+                  </div>
+    
+    
+                  <div> 
+                    <p>Working with Page Speed Solutions was an amazing experience. They are well-experienced in handling page load speed issues and provide creative solutions. The final WordPress website looks superfast and much healthier. I am glad to share that my website bounce rates have decreased phenomenally. It has turned out with a 2X increase in website traffic, kudos to their hard work and dedication.</p>
+      
+                    <!-- <span>K D</span> -->
+                  </div>
+    
+                  <div> 
+                    <p>After optimizing the page loading speed of my Shopify website, my store has shown a stellar performance. They have turbocharged my website and have enhanced user experiences and conversions. Within a few months, my sales started to push to the newest levels. I am glad I found Page Speed Solutions for my website project. </p>
+      
+                    <!-- <span>K D</span> -->
+                  </div>
+    
+                  <div> 
+                    <p>My experience with Page Speed Solutions was good. I am quite impressed with the level of dedication and discipline they practice in showing the best results. The team was there with me throughout the project. Their innovative skills and problem-solving talent in transforming my Drupal website page load speed were exceptional and excellent. Thanks for the help!</p>
+      
+                    <!-- <span>K D</span> -->
+                  </div>
+    
+                  <div> 
+                    <p>Being a Magento online store owner, I wasn’t expecting a drastic improvement in my sales in a short time. Meeting the team of Page Speed Solutions changed my perception. Despite the time differences, they communicated effectively with prompt responses. The team could successfully my store speed score from 19 to 80 which was beyond my expectations. Very happy and satisfied to work with such a great team. Highly recommended!</p>
+      
+                    <!-- <span>K D</span> -->
+                  </div>
+    
+                  <div> 
+                    <p>Collaborating with Page Speed Solutions was a game-changer for our agency. Their entire set of page speed optimization services has exceeded our expectations. All our clients have found remarkable improvement in their website performance, leading to higher conversions and better user engagement. We recommend you hire the talented team of Page Speed Solutions if you are seeking to improve your online store for more business. </p>
+      
+                    <!-- <span>K D</span> -->
+                  </div>
+                </div>
+                <div id="counter"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="client-wrapper">
+        <div class="container">
+          <div class="overlay">
+            <div class="content">
+              <div class="item">
+                <h2>100+</h2>
+                <p>SATISFIED CLIENTS</p>
+              </div>
+              <div class="line"></div> <!-- Vertical line -->
+              <div class="item">
+                <h2>150+</h2>
+                <p>COMPLETED PROJECTS</p>
+              </div>
+              <div class="line"></div> <!-- Vertical line -->
+              <div class="item">
+                <h2>100%</h2>
+                <p>GROW YOUR BUSINESS</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="ourclient-wrapper">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-4">
+              <div class="client-item">
+                <h3>Our Clients</h3>
+                <p>Check out our portfolio of the top brands<br> we covered boosting their websites leading to excellence.</p>
+              </div>
+            </div>
+            <div class="col-lg-8 d-lg-flex align-items-center justify-content-center">
+              <div class="row">
+                <div class="col-6 col-sm-4 col-md">
+                  <img src="./src/img/oracle-logo-1 (1).svg" alt="client1">
+                </div>
+                <div class="col-6 col-sm-4 col-md">
+                  <img src="./src/img/pentel-1.svg" alt="client">
+                </div>
+                <div class="col-6 col-sm-4 col-md">
+                  <img src="./src/img/cptv.svg" alt="client">
+                </div>
+                <div class="col-6 col-sm-4 col-md">
+                  <img src="./src/img/oracle-logo-1 (1).svg" alt="client">
+                </div>
+                <div class="col-6 col-sm-4 col-md">
+                  <img src="./src/img/pentel-1.svg" alt="client">
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <footer>
+        <div class="footer-wrapper">
+          <div class="container">
+            <div class="row">
+              <div class="col-md-4 col-lg-3">
+                <div class="footer-details">
+                  <a href="/" class="footer-logo">
+                    <img src="src/img/footer-logo.svg" alt="footer-logo">
+                  </a>
+    
+                  <p>Speed Up Your Website and Boost Your Online Potential. We are Fast, Exceptional, and Reliable.</p>
+    
+                  <ul class="footer-social">
+                    <li>
+                      <a href="#">
+                        <img src="src/img/fb.png" alt="fb">
+                      </a>
+                    </li>
+                    <li>
+                      <a href="#">
+                        <img src="src/img/insta.png" alt="insta">
+                      </a>
+                    </li>
+                    <li>
+                      <a href="#">
+                        <img src="src/img/twit.png" alt="twit">
+                      </a>
+                    </li>
+                    <li>
+                      <a href="#">
+                        <img src="src/img/link.png" alt="link.png">
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+    
+              <div class="col-md-8 col-lg-7 offset-lg-2">
+                <div class="row">
+                  <div class="col-md-6">
+                    <div class="footer-link-title">
+                      SERVICE PROVIDED
+                    </div>
+    
+                    <ul class="footer-links">
+                      <li><a href="wordpress-speed-optimization">Wordpress Speed Optimization</a></li>
+                      <li><a href="shopify-speed-optimization">Shopify Speed Optimization</a></li>
+                      <li><a href="magento-speed-optimization">Magento Speed Optimization</a></li>
+                      <li><a href="drupal-speed-optimization">Drupal Speed Optimization</a></li>
+                      <li><a href="b2b-partnership">B2B Partnership</a></li>
+                    </ul>
+                  </div>
+    
+                  <div class="col-md-6">
+                    <div class="footer-link-title">
+                      QUICK LINKS
+                    </div>
+    
+                    <ul class="footer-links">
+                      <li><a href="about-page-speed-solution">About</a></li>
+                      <li><a href="contact-page-speed-solution">Contact</a></li>
+                      <!-- <li><a href="#">Blogs</a></li> -->
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+    
+            <div class="footer-contact">
+              <div class="row">
+                <div class="col-md-6">
+                  <div class="footer-contact_item">
+                    <a href="tel:919662262269">
+                      <img src="src/img/phone.svg" alt="phone">
+                      <span>Call:</span>
+                      <span>+91 96622 62269</span>
+                    </a>
+                  </div>
+                </div>
+    
+                <div class="col-md-6">
+                  <div class="footer-contact_item">
+                    <a href="mailto:contact@pagespeedsolution.com">
+                      <img src="src/img/email.svg" alt="email">
+                      <spna>Email:</spna>
+                      <span>contact@pagespeedsolution.com</span>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+    
+        <div class="footer-copyright">
+          <div class="container">
+            <p>Copyright © 2026 Page Speed</p>
+          </div>
+        </div>
+      </footer>
+
+
+      <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" crossorigin="anonymous"></script>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js'></script>
+  <script src='https://owlcarousel2.github.io/OwlCarousel2/assets/owlcarousel/owl.carousel.js'></script>
+<script  src="/src/js/script.js"></script>
+</body>
+</html>
