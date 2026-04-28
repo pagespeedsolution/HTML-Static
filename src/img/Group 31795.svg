@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" viewBox="0 0 42 42">
+  <g id="Group_31792" data-name="Group 31792" transform="translate(-140 -2961)">
+    <rect id="Rectangle_6514" data-name="Rectangle 6514" width="42" height="42" rx="10" transform="translate(140 2961)" fill="#27ae61"/>
+    <g id="Layer_2" data-name="Layer 2" transform="translate(149 2970)">
+      <g id="pie-chart">
+        <rect id="Rectangle_6517" data-name="Rectangle 6517" width="24" height="24" fill="#fff" opacity="0"/>
+        <path id="Path_239729" data-name="Path 239729" d="M13,2a1,1,0,0,0-1,1v8a1,1,0,0,0,1,1h8a1,1,0,0,0,1-1A9,9,0,0,0,13,2Zm1,8V4.07A7,7,0,0,1,19.93,10Z" fill="#fff"/>
+        <path id="Path_239730" data-name="Path 239730" d="M20.82,14.06a1,1,0,0,0-1.28.61A8,8,0,1,1,9.33,4.46a1,1,0,1,0-.66-1.89A10,10,0,1,0,21.43,15.33a1,1,0,0,0-.61-1.27Z" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

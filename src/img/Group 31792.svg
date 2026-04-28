@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="42" height="42" viewBox="0 0 42 42">
+  <g id="Group_31792" data-name="Group 31792" transform="translate(-140 -2961)">
+    <rect id="Rectangle_6514" data-name="Rectangle 6514" width="42" height="42" rx="10" transform="translate(140 2961)" fill="#27ae61"/>
+    <g id="Layer_2" data-name="Layer 2" transform="translate(148.556 2969.556)">
+      <g id="bar-chart-2">
+        <rect id="Rectangle_6513" data-name="Rectangle 6513" width="24" height="24" transform="translate(24.444 0.444) rotate(90)" fill="#fff" opacity="0"/>
+        <path id="Path_239723" data-name="Path 239723" d="M12.03,8A1.03,1.03,0,0,0,11,9.03V20.357a1.03,1.03,0,1,0,2.059,0V9.03A1.03,1.03,0,0,0,12.03,8Z" transform="translate(0.327 0.238)" fill="#fff"/>
+        <path id="Path_239724" data-name="Path 239724" d="M19.03,4A1.03,1.03,0,0,0,18,5.03V20.475a1.03,1.03,0,1,0,2.059,0V5.03A1.03,1.03,0,0,0,19.03,4Z" transform="translate(0.535 0.119)" fill="#fff"/>
+        <path id="Path_239725" data-name="Path 239725" d="M5.03,12A1.03,1.03,0,0,0,4,13.03v7.208a1.03,1.03,0,1,0,2.059,0V13.03A1.03,1.03,0,0,0,5.03,12Z" transform="translate(0.119 0.357)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
